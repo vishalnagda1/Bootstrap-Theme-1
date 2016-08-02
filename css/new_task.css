@@ -1,0 +1,77 @@
+#my-carousel {
+	margin-top: 51px;
+}
+
+.my-nav .no-margin .no-padding {
+	padding: 0;
+}
+
+.carousel-inner .item img {
+  width: 100%;
+}
+
+#my-carousel .item p {
+  text-align: center;
+}
+
+.section-main .row {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.section-main a .glyphicon {
+  font-size: 8pt!important;
+}
+
+.section-one {
+	background-color: #eceef1;
+}
+
+.section-one p {
+	text-align: justify;
+}
+
+.section-three {
+	background-color: #ea4c88;
+}
+
+.section-five {
+	background-color: #eceef1;
+}
+
+.section-five h2 {
+	padding-top: 100px;
+}
+
+.section-five .row {
+	padding-top: 10px;
+}
+
+.section-five .overlay-content {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	padding: 2em 2em 0;
+	transition: all .2s ease-in;
+	opacity: 0;
+}
+
+.section-five .overlay-content:hover {
+	color: #eaeaea;
+	visibility: visible;
+	opacity: 100;
+	background-color: #337ab7;
+}
+
+.section-six img {
+	max-width: 50px;
+}
+
+.section-six .btn {
+	padding-top: 0px;
+    padding-right: 6px;
+    padding-bottom: 0px;
+    padding-left: 6px;
+}
